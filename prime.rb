@@ -5,5 +5,7 @@ def prime?(integer)
     return true 
   elsif (integer <= 1) 
     return false 
+  else 
+    return false
   end
 end
